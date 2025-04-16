@@ -1,9 +1,11 @@
 #  Bienvenidos al GitHub de Diego Díaz 
 ![alt text](image.png)
 
-![](https://komarev.com/ghpvc/?username=DiegoDiazD98&color=blueviolet)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-diaz-diaz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.idd98@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=DiegoDiazD98&color=blueviolet)
 
 
 Ingeniero Electrónico con experiencia en la gestión y desarrollo de proyectos en los campos de Internet de las Cosas (IoT), Inteligencia Artificial y sistemas embebidos utilizando plataformas como ESP32, Raspberry Pi y OpenMV.
