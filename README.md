@@ -9,6 +9,7 @@
  gestión y desarrollo de proyectos en los campos de
  Sistemas Embebidos, Internet de las cosas e Inteligencia
  Artificial. 
+ 
  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif width=10/>
 
 
