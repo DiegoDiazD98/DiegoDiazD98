@@ -16,7 +16,7 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
 ---
 
 
-### 🛠️ Estadisticas
+### 📊 Estadisticas
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDiazD98&layout=compact)
