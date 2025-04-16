@@ -13,6 +13,8 @@
 Además, tengo conocimientos en lenguajes de programación como **Python**, **MATLAB**, y tecnologías web como **React** y **Astro**.  
 Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**, y conocimientos en diseño mediante **Blender** y **KiCad**.
 
+ <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif width=10/>
+
 ---
 
 
@@ -49,6 +51,7 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
+
 
 
 
