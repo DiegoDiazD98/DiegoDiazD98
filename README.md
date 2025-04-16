@@ -15,13 +15,18 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
 
 ---
 
+
+### 🛠️ Estadisticas
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDiazD98&layout=compact)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoDiazD98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DiegoDiazD98&theme=gitdimmed)
 
-![Isometric Calendar](https://isometric-contributions.vercel.app/api?user=DiegoDiazD98)
+![Isometric Metrics](https://raw.githubusercontent.com/DiegoDiazD98/DiegoDiazD98/master/metrics.plugin.isocalendar.fullyear.svg)
+
 
 ---
 
