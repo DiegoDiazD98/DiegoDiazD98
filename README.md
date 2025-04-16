@@ -13,10 +13,11 @@
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDiazD98&layout=compact)
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoDiazD98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiegoDiazD98-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif width=10/>
 
