@@ -1,14 +1,14 @@
 #  Bienvenidos al GitHub de Diego Díaz 
 ![alt text](image.png)
 
+![](https://komarev.com/ghpvc/?username=DiegoDiazD98&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-diaz-diaz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.idd98@gmail.com)
 
 
- Ingeniero Electrónico, con experiencia en la
- gestión y desarrollo de proyectos en los campos de
- Sistemas Embebidos, Internet de las cosas e Inteligencia
- Artificial. 
+Ingeniero Electrónico con experiencia en la gestión y desarrollo de proyectos en los campos de Internet de las Cosas (IoT), Inteligencia Artificial y sistemas embebidos utilizando plataformas como ESP32, Raspberry Pi y OpenMV.
+Además, tengo conocimientos en lenguajes de programación como Python, MATLAB, y tecnologías web como React y Astro.
+Cuento también con manejo de herramientas como Excel, Office, LaTeX, y conocimientos en diseño mediante Blender y KiCad.
 
 
 
@@ -17,7 +17,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoDiazD98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiegoDiazD98&theme=gitdimmed)]
+![trophy](https://github-profile-trophy.vercel.app/?username=DiegoDiazD98&theme=gitdimmed)
 
  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif width=10/>
 
