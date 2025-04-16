@@ -25,7 +25,6 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DiegoDiazD98&theme=gitdimmed)
 
-![Isometric Metrics](https://raw.githubusercontent.com/DiegoDiazD98/DiegoDiazD98/master/metrics.plugin.isocalendar.fullyear.svg)
 
 
 ---
