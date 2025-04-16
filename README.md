@@ -43,12 +43,7 @@ Cuento también con manejo de herramientas como Excel, Office, LaTeX, y conocimi
         ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
         ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-<iframe
-  src="https://isometric-contributions.vercel.app/?user=DiegoDiazD98"
-  frameborder="0"
-  width="100%"
-  height="500"
-></iframe>
+![Isometric Calendar](https://isometric-contributions.vercel.app/api?user=DiegoDiazD98)
 
         
 
