@@ -12,7 +12,7 @@
 
  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif width=10/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDiazD98&layout=compact)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
