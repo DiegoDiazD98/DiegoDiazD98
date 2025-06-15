@@ -21,7 +21,7 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
 
 ![Imágen de kicad](dgemkeyboard1.png)
 
-![ke](key3d1.png)
+![ke](k3d.png)
 
 ---
 
