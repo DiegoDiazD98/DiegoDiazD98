@@ -16,7 +16,12 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif" width="120"/>
 </p>
-![alt text](dgemkeyboard1.png)
+
+![tec](tecladoescquematico1.png)
+
+![Imágen de kicad](dgemkeyboard1.png)
+
+![ke](key3d1.png)
 
 ---
 
