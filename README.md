@@ -17,11 +17,18 @@ Cuento también con manejo de herramientas como **Excel**, **Office**, **LaTeX**
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aHdkYWNhbTZmczg3cnV6bTc3YmF5b2RmaTJxdGxiZWsybDRmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oa3S5LO0XWZCMBZ3Fe/giphy.gif" width="120"/>
 </p>
 
+**Desarrollo de teclados en Kicad 9**
+
 ![tec](tecladoescquematico1.png)
 
 ![Imágen de kicad](dgemkeyboard1.png)
 
 ![ke](k3d.png)
+
+**Detección de insectos mediante algoritmo de procesamiento de imágenes**
+![insecr](insec.png)
+![ins](in1.png)
+![ins2](in2.png)
 
 ---
 
